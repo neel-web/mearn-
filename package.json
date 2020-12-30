@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "server"
+  },
+  "author": "neel savaliya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1"
+  }
+}
